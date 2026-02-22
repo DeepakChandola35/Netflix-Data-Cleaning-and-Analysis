@@ -146,6 +146,18 @@ Netflix-Content-Analysis/
 
 ---
 
+---
+
+ 🎬 Charts Images_
+
+<img width="1262" height="689" alt="Screenshot 2026-02-22 210854" src="https://github.com/user-attachments/assets/f99be654-2353-4e4d-b795-2095fac77feb" />
+<img width="1239" height="686" alt="Screenshot 2026-02-22 210907" src="https://github.com/user-attachments/assets/bac79091-64db-42dc-a6c2-dfebc2b024f6" />
+<img width="1239" height="683" alt="Screenshot 2026-02-22 210912" src="https://github.com/user-attachments/assets/aa56b541-0a1a-46cf-b100-d8ab69775458" />
+<img width="1239" height="1414" alt="Screenshot 2026-02-22 210927" src="https://github.com/user-attachments/assets/d91c257b-ec02-41aa-b217-d2bfb688dcc8" />
+
+---
+
+
  🔮 Future Enhancements
 
 - Build a Recommendation System  
